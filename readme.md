@@ -5,7 +5,7 @@ At the top there is a presentation header section with a button for the portfoli
 The main section contains text describing each project and a small image of them.
 In the footer I left my contacts.</br>
 Created using HTML5 and CSS.<br>
-It is available <a href="https://github.com/vitorfnery/small_portfolio" target="_blank">here</a>
+It is available <a href="https://vitorfnery.github.io/small_portfolio/" target="_blank">here</a>.
 
 ## Techonologies
 
